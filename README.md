@@ -9,32 +9,8 @@
   <b>🎶 VEGETA MUSIC</b>
 </h1>
 
-
-
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
@@ -94,4 +70,7 @@ DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/
 
 
 # contributors 
-[RENDY](https://github.com/Randi356) Dev
+[RENDY](https://github.com/Randi356) coding
+[rojserbes](http://github.com/rojserbes) dev
+[hamkercat](https://github.com/thehamkercat) dev
+[laky](https://github.com/Laky-64) & [andrew](https://github.com/AndrewLaneX) PyTgCalls
