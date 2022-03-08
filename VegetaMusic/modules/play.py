@@ -381,7 +381,7 @@ async def m_cb(b, cb):
 @errors
 async def play(_, message: Message):
     global que
-    lel = await message.reply("🔄 **Sedang Memproses Lagu**")
+    lel = await message.reply("🔄 **Prossing Vegeta**")
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
 
